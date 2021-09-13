@@ -7,11 +7,11 @@
 import java.util.Scanner;
 
 public class TextAdventure {
-    public static void main(String[] args) {
+  public static void main(String[] args) {
 
-     welcome();
-     battle();
-     
+      welcome();
+      battle();
+    
     }
     public static void welcome() {
 
