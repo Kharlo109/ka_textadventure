@@ -4,10 +4,8 @@ public class RNGenerator {
 
     public static void main(String args[]) {
 
-        Random rand = new Random(); 
+        Random rand = new Random(); //Creates new random object. 
 
-        int int_random = rand.nextInt();
-
-        System.out.println(int_random);
+        int int_random = rand.nextInt(); //Calls random integer and passes it to int_random
     }
 }
